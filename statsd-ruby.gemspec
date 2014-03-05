@@ -1,6 +1,6 @@
 # -*- encoding: utf-8 -*-
 
-Gem::Specification.new("statsd-ruby", "1.2.1") do |s|
+Gem::Specification.new("statsd-ruby", "1.2.2.paperless") do |s|
   s.authors = ["Rein Henrichs"]
   s.email = "reinh@reinh.com"
 
