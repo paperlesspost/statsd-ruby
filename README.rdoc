@@ -1,5 +1,7 @@
 = statsd
 
+<b>Note that this fork is not currently maintained.  Please refer to {github/statsd-ruby}[https://github.com/github/statsd-ruby]</b>
+
 A Ruby statsd client (https://github.com/etsy/statsd)
 
 = Installing
@@ -14,7 +16,7 @@ Run the specs with <tt>rake spec</tt>
 Run the specs and include live integration specs with <tt>LIVE=true rake spec</tt>. Note: This will test over a real UDP socket.
 
 == Contributing to statsd
- 
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it
 * Fork the project
